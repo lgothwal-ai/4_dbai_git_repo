@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlmodel
+google-genai
+python-multipart
+python-dotenv
