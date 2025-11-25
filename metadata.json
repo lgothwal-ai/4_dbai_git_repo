@@ -1,0 +1,8 @@
+{
+  "name": "AI Triage Assistant",
+  "description": "A medical triage application with Patient Kiosk, Doctor Dashboard, and Admin Analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
